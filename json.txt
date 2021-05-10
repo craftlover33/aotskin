@@ -18,130 +18,310 @@
 	],
 	"Skin": [{
       "id":1,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin1.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/1.png"
     },
     {
       "id":2,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin2.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/2.png"
     },
     {
       "id":3,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin3.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/3.png"
     },
     {
       "id":4,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin4.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/4.png"
     },
     {
       "id":5,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin5.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/5.png"
     },
     {
       "id":6,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin6.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/6.png"
     },
     {
       "id":7,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin7.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/7.png"
     },
     {
       "id":8,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin8.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/8.png"
     },
     {
       "id":9,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin9.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/9.png"
     },
     {
       "id":10,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin10.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/10.png"
     },
     {
       "id":11,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin11.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/11.png"
     },
     {
       "id":12,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin12.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/12.png"
     },
     {
       "id":13,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin13.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/13.png"
     },
     {
       "id":14,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin14.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/14.png"
     },
     {
       "id":15,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin15.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/15.png"
     },
     {
       "id":16,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin16.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/16.png"
     },
     {
       "id":17,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin17.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/17.png"
     },
     {
       "id":18,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin18.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/18.png"
     },
     {
       "id":19,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin19.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/19.png"
     },
     {
       "id":20,
-      "nama_skin":"ATTACK OF TITAN SKIN",
+      "nama_skin":"ATTACK ON TITAN SKIN",
       "skin_url":"https://rastariski01.github.io/attackoftitanmod/skin20.png",
       "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/20.png"
+    },
+    {
+      "id":21,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin21.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/21.png"
+    },
+    {
+      "id":22,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin22.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/22.PNG"
+    },
+    {
+      "id":23,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin23.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/23.PNG"
+    },
+    {
+      "id":24,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin24.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/24.PNG"
+    },
+    {
+      "id":25,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin25.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/25.PNG"
+    },
+    {
+      "id":26,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin26.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/26.PNG"
+    },
+    {
+      "id":27,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin27.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/27.PNG"
+    },
+    {
+      "id":28,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin28.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/28.PNG"
+    },
+    {
+      "id":29,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin29.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/29.PNG"
+    },
+    {
+      "id":30,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin30.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/30.PNG"
+    },
+    {
+      "id":31,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin31.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/31.PNG"
+    },
+    {
+      "id":32,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin32.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/32.PNG"
+    },
+    {
+      "id":33,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin33.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/33.PNG"
+    },
+    {
+      "id":34,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin34.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/34.PNG"
+    },
+    {
+      "id":35,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin35.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/35.PNG"
+    },
+    {
+      "id":36,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin36.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/36.PNG"
+    },
+    {
+      "id":37,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin37.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/37.PNG"
+    },
+    {
+      "id":38,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin38.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/38.PNG"
+    },
+    {
+      "id":39,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin39.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/39.PNG"
+    },
+    {
+      "id":40,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin40.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/40.PNG"
+    },
+    {
+      "id":41,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin41.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/41.PNG"
+    },
+    {
+      "id":42,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin42.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/42.PNG"
+    },
+    {
+      "id":43,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin43.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/43.PNG"
+    },
+    {
+      "id":44,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin44.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/44.PNG"
+    },
+    {
+      "id":45,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin45.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/45.PNG"
+    },
+    {
+      "id":46,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin46.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/46.PNG"
+    },
+    {
+      "id":47,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin47.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/47.PNG"
+    },
+    {
+      "id":48,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin48.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/48.PNG"
+    },
+    {
+      "id":49,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin49.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/49.PNG"
+    },
+    {
+      "id":50,
+      "nama_skin":"ATTACK ON TITAN SKIN",
+      "skin_url":"https://raw.githubusercontent.com/craftlover33/aotskin/main/skin50.png",
+      "view_skin":"https://raw.githubusercontent.com/craftlover33/aotskin/main/50.PNG"
     }
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"ATTACK OF TITAN MOD ADDON",
+      "nama_add":"ATTACK ON TITAN MOD ADDON",
       "add_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon1.zip",
       "addB_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon1(b).mcpack",
       "addR_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon1(r).mcpack",
@@ -150,7 +330,7 @@
     },
     {
       "id":2,
-      "nama_add":"ATTACK OF TITAN MOD ADDON",
+      "nama_add":"ATTACK ON TITAN MOD ADDON",
       "add_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2.zip",
       "addB_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(b).mcpack",
       "addR_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(r).mcpack",
@@ -162,7 +342,7 @@
   [
     {
       "id":1,
-      "nama_map":"ATTACK OF TITAN MAP",
+      "nama_map":"ATTACK ON TITAN MAP",
       "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
       "view_map":"https://raw.githubusercontent.com/craftlover33/aotskin/main/map.png",
       "des_map":"https://raw.githubusercontent.com/craftlover33/aotskin/main/map.html"
